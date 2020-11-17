@@ -5,9 +5,12 @@
 + I play classical guitar, electric guitar and theorbo.
 + I enjoy messing around with code (mostly Python).
 + I am very interested in data science, machine learning and AI.
+<br />
 
 ### Connect with me:
 [<img align="left" alt="OwenPendrighElliott | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+
+<br />
 
 ### Check out some of my music:
 From my progressive metal band Axiomatic Theory:

@@ -5,7 +5,6 @@
 + I play classical guitar, electric guitar and theorbo.
 + I enjoy messing around with code (mostly Python).
 + I am very interested in data science, machine learning and AI.
-<br />
 
 ### Connect with me:
 [<img align="left" alt="OwenPendrighElliott | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
@@ -21,8 +20,10 @@ From my progressive metal band Axiomatic Theory:
 ### Languages and Tools I know:
 
 [<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />][github]
-[<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/valohai/ml-logos/master/pytorch.svg" />][github]
+[<img align="left" alt="Visual Studio Code" width="36px" src="https://raw.githubusercontent.com/valohai/ml-logos/master/pytorch.svg" />][github]
 [<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />][github]
+[<img align="left" alt="Visual Studio Code" width="30px" src="https://brand.sas.com/content/sasbrand/en/home/brand-assets/design-elements/logos/_jcr_content/par/styledcontainer/par/tabwrapper/tabwrapperpar/tab_1697604638/tabpar/image_1817125908.img.png/1500589125470.png" />][github]
+
 [<img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />][github]
 [<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />][github]
 [<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />][github]

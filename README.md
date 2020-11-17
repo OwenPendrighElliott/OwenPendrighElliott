@@ -12,9 +12,11 @@
 <br />
 
 ### Check out some of my music:
-From my progressive metal band Axiomatic Theory:
 [<img align="left" alt="AxiomaticTheory | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][band_yt]
+My progressive metal band Axiomatic Theory!
 
+[<img align="left" alt="AxiomaticTheory | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][insta]
+My instagram for other misc content!
 <br />
 
 ### Languages and Tools I know:
@@ -35,3 +37,4 @@ From my progressive metal band Axiomatic Theory:
 [linkedin]: https://www.linkedin.com/in/owen-elliott-345254166/
 [band_yt]: https://www.youtube.com/channel/UCMUUIxKFO4ueTK1BFe51UiQ
 [github]: https://github.com/OwenPendrighElliott
+[insta]: https://www.instagram.com/owenpendrighelliott/

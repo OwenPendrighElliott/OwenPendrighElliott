@@ -2,9 +2,10 @@
 
 ### About me:
 + I am a student studying IT and Music at the ANU.
++ My main focuses are data science, machine learning and AI.
 + I play classical guitar, electric guitar and theorbo.
 + I enjoy messing around with code (mostly Python).
-+ I am very interested in data science, machine learning and AI.
+
 
 ### Connect with me:
 [<img align="left" alt="OwenPendrighElliott | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]

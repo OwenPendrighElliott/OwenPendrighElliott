@@ -20,9 +20,10 @@ My progressive metal band Axiomatic Theory!
 My instagram for other music content!
 <br />
 
-### Some of the languages and tools I know well:
+### Some of my favourite tools and languages:
 
 [<img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />][github]
+[<img align="left" alt="Anaconda" width="100px" src="https://upload.wikimedia.org/wikipedia/en/thumb/c/cd/Anaconda_Logo.png/200px-Anaconda_Logo.png" />][github]
 [<img align="left" alt="PyTorch" width="50px" src="https://raw.githubusercontent.com/valohai/ml-logos/master/pytorch.svg" />][github]
 [<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />][github]
 [<img align="left" alt="SAS" width="40px" src="https://brand.sas.com/content/sasbrand/en/home/brand-assets/design-elements/logos/_jcr_content/par/styledcontainer/par/tabwrapper/tabwrapperpar/tab_1697604638/tabpar/image_1817125908.img.png/1500589125470.png" />][github]

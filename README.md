@@ -17,7 +17,7 @@
 My progressive metal band Axiomatic Theory!
 
 [<img align="left" alt="AxiomaticTheory | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][insta]
-My instagram for other music content!
+My instagram for other misc content!
 <br />
 
 ### Some of my favourite tools and languages:

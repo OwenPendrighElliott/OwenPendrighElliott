@@ -1,7 +1,7 @@
 ### Welcome!
 
 ### About me:
-+ I am a data scientist at the Australian Bureau of Statistics and also finishing my double degree in computer science and music at the ANU.
++ I am an Analytics and AI Consultant at Deloitte Australia.
 + My main focuses are data science, machine learning and AI.
 + I play classical guitar, electric guitar and theorbo.
 + I enjoy messing around with code in my spare time (mostly Python).

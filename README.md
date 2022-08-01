@@ -1,7 +1,7 @@
 ### Welcome!
 
 ### About me:
-+ I am an Analytics and AI Consultant at Deloitte Australia.
++ I am a Senior Consultant in Advanced Modelling and Machine Learning at Deloitte Australia.
 + My main focuses are data science, machine learning and AI.
 + I play classical guitar, electric guitar and theorbo.
 + I enjoy messing around with code in my spare time (mostly Python).

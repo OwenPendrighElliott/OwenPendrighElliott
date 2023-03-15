@@ -11,12 +11,12 @@
 
 <br />
 
-### Check out some of my music:
+### Music and Other:
 [<img align="left" alt="AxiomaticTheory | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][band_yt]
-My progressive metal band Axiomatic Theory!
+My progressive metal band Axiomatic Theory
 
 [<img align="left" alt="AxiomaticTheory | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][insta]
-My instagram for other misc content!
+My instagram for other misc content
 <br />
 
 ### Some of my favourite tools and languages:

@@ -1,23 +1,19 @@
 ### Welcome!
 
 ### About me:
-+ Solution Architect at Marqo!
-+ Passionate about Systems Architecting, Software Engineering and AI.
-+ I enjoy all things code and publish a selection of my projects here.
+I am a solution architect who is passionate about AI, software, systems architecting and SoSE! I have industry experience in mining, defence, agriculture, banking and e-commerce. Currently I work as a solution architect at Marqo!
 
+### Checkout my Website
+[owenelliott.dev](https://www.owenelliott.dev/?UI=GUI)
 
 ### Connect with me:
 [<img align="left" alt="OwenPendrighElliott | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
 <br />
 
-### Music and Other:
+### Music:
 [<img align="left" alt="AxiomaticTheory | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][band_yt]
 My progressive metal band Axiomatic Theory
-
-[<img align="left" alt="AxiomaticTheory | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][insta]
-My instagram for other misc content
-<br />
 
 ### Some of my favourite tools and languages:
 

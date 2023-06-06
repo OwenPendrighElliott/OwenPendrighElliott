@@ -4,7 +4,7 @@
 I am a solution architect who is passionate about AI, software, systems architecting and SoSE! I have industry experience in mining, defence, agriculture, banking and e-commerce. Currently I work as a solution architect at Marqo!
 
 ### Check out my Website:
-[owenelliott.dev](https://www.owenelliott.dev/?UI=GUI)
+[owenelliott.dev](https://www.owenelliott.dev/)
 
 ### Connect with me:
 [<img align="left" alt="OwenPendrighElliott | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]

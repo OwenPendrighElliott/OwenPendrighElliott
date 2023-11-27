@@ -39,3 +39,12 @@ My progressive metal band Axiomatic Theory
 [band_yt]: https://www.youtube.com/channel/UCMUUIxKFO4ueTK1BFe51UiQ
 [github]: https://github.com/OwenPendrighElliott
 [insta]: https://www.instagram.com/owenpendrighelliott/
+
+<p align="center">
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=owenpendrighelliott&layout=compact&hide=jupyter%20notebook&theme=dracula" alt="Top Langs" height="200px"/>
+  </a>
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api?username=owenpendrighelliott&show_icons=true&theme=dracula&rank_icon=github" alt="GitHub Stats" height="200px"/>
+  </a>
+</p>

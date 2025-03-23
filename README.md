@@ -1,7 +1,7 @@
 ### Welcome!
 
 ### About me:
-I am a solution architect who is passionate about AI, software, systems architecting and SoSE! I have industry experience in mining, defence, agriculture, banking and e-commerce. Currently I work as a solution architect at Marqo!
+I am a Solutions Architect who is passionate about AI, software, systems architecting and SoSE! I have industry experience in mining, defence, agriculture, banking and e-commerce. Currently I work as a Solutions Architect at Marqo!
 
 ### Check out my Website:
 [owenelliott.dev](https://www.owenelliott.dev/)
